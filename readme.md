@@ -1,2 +1,2 @@
 #test repository
-new text
+new text supertext
